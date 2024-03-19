@@ -2,11 +2,7 @@ class ProductManager {
   static #products = [];
   create(data) {
     const product = {
-      id:
-        ProductManager.#products.length === 0
-          ? 1
-          : ProductManager.#products[ProductManager.#products.length - 1].id +
-            1,
+      id:crypto.randomBytes(12).toString("hex"),
       title: data.title,
       photo: data.photo,
       category: data.category,

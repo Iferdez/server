@@ -1,0 +1,82 @@
+[
+  {
+    "id": "99fafa69567c991a1caa0e06",
+    "photo": "galaxy23.jpg",
+    "price": 800000,
+    "stock": 72,
+    "title": "Galaxy s23",
+    "category": "celulares"
+  },
+  {
+    "id": "064a411621765f1955f0d9d3",
+    "photo": "thinkpad.jpg",
+    "price": 56000,
+    "stock": 12,
+    "title": "Lenovo  ThinkPad T490",
+    "category": "computadoras"
+  },
+  {
+    "id": "7c1d5400186b5815ad0bb5a0",
+    "photo": "vaio.jpg",
+    "price": 49500,
+    "stock": 29,
+    "title": "Vaio  SZ422 Laptop",
+    "category": "computadoras"
+  },
+  {
+    "id": "96aedd89855155c317bd98f1",
+    "photo": "applewatch.jpg",
+    "price": 92800,
+    "stock": 3,
+    "title": "Apple Watch",
+    "category": "accesorios"
+  },
+  {
+    "id": "7e67f58cb9784f9bb3b21f36",
+    "photo": "matepad.jpg",
+    "price": 39000,
+    "stock": 42,
+    "title": "Huawei MatePad",
+    "category": "tablets"
+  },
+  {
+    "id": "b6d5021a7ea99eda062848b9",
+    "photo": "galaxy24.jpg",
+    "price": 1000000,
+    "stock": 72,
+    "title": "Galaxy s24",
+    "category": "celulares"
+  },
+  {
+    "id": "f7b8a13ba1c4620107327d3f",
+    "photo": "redminote8pro.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Xiaomi  Redmi Note 8 Pro",
+    "category": "celulares"
+  },
+  {
+    "id": "5cd026d292fbc7f1f82b4799",
+    "photo": "msigf.jpg",
+    "price": 850000,
+    "stock": 35,
+    "title": "MSI GF 63",
+    "category": "computadoras"
+  },
+  {
+    "id": "2ec92b4971f953e2b1103e8c",
+    "photo": "ear1.jpg",
+    "price": 52000,
+    "stock": 81,
+    "title": "Nothing Ear",
+    "category": "auriculares"
+  },
+  {
+    "id": "004a9daf0284fea481fbb72d",
+    "photo": "jblcharge6.jpg",
+    "price": 15000,
+    "stock": 64,
+    "title": "JBL Charge  6",
+    "category": "audio"
+  }
+]

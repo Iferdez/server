@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1bf6e9e7feec084c89faf26b",
+    "photo": "https://pbs.twimg.com/media/Bwi-IjVIcAAjoIb?format=jpg&name=small",
+    "password": "incorrecta",
+    "role": 0,
+    "email": "usuario@hormail.com"
+  },
+  {
+    "id": "82454177f2af8b2a7427dcf5",
+    "photo": "https://pbs.twimg.com/media/Bwi-IjVIcAAjoIb?format=jpg&name=small",
+    "password": "748596",
+    "role": 0,
+    "email": "ignacio@gmail.com"
+  },
+  {
+    "id": "33f439019dd0e131b21590cb",
+    "photo": "https://pbs.twimg.com/media/Bwi-IjVIcAAjoIb?format=jpg&name=small",
+    "password": "125489619",
+    "role": 0,
+    "email": "franco@gmail.com"
+  },
+  {
+    "id": "9249521474602a9ff0733406",
+    "photo": "https://media.tenor.com/Qyr0DdIkY64AAAAe/enrique-el-antiguo.png",
+    "password": "margarita",
+    "role": 0,
+    "email": "elantiguo@yahoo.com"
+  },
+  {
+    "id": "8dc8e855de7e822a5751ce74",
+    "photo": "https://pbs.twimg.com/media/Bwi-IjVIcAAjoIb?format=jpg&name=small",
+    "password": "incorrecta",
+    "role": 0,
+    "email": "usuario@hormail.com"
+  },
+  {
+    "id": "920d96aff212f4095f3de6e6",
+    "photo": "https://pbs.twimg.com/media/Bwi-IjVIcAAjoIb?format=jpg&name=small",
+    "password": "748596",
+    "role": 0,
+    "email": "ignacio@gmail.com"
+  },
+  {
+    "id": "6b2b4758b2837fc390ed1104",
+    "photo": "https://pbs.twimg.com/media/Bwi-IjVIcAAjoIb?format=jpg&name=small",
+    "password": "125489619",
+    "role": 0,
+    "email": "franco@gmail.com"
+  },
+  {
+    "id": "92b7656d1c217d9a8c4b4260",
+    "photo": "https://media.tenor.com/Qyr0DdIkY64AAAAe/enrique-el-antiguo.png",
+    "password": "margarita",
+    "role": 0,
+    "email": "elantiguo@yahoo.com"
+  }
+]
