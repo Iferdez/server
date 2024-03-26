@@ -1,6 +1,6 @@
 [
   {
-    "id": "99fafa69567c991a1caa0e06",
+    "id": "13c558156ba2448915345863",
     "photo": "galaxy23.jpg",
     "price": 800000,
     "stock": 72,
@@ -8,7 +8,7 @@
     "category": "celulares"
   },
   {
-    "id": "064a411621765f1955f0d9d3",
+    "id": "af98531fef8249a659b7240f",
     "photo": "thinkpad.jpg",
     "price": 56000,
     "stock": 12,
@@ -16,7 +16,7 @@
     "category": "computadoras"
   },
   {
-    "id": "7c1d5400186b5815ad0bb5a0",
+    "id": "86b0555afeaf497fd25070cc",
     "photo": "vaio.jpg",
     "price": 49500,
     "stock": 29,
@@ -24,7 +24,7 @@
     "category": "computadoras"
   },
   {
-    "id": "96aedd89855155c317bd98f1",
+    "id": "3699c5be90bfcdeb6aec2798",
     "photo": "applewatch.jpg",
     "price": 92800,
     "stock": 3,
@@ -32,7 +32,7 @@
     "category": "accesorios"
   },
   {
-    "id": "7e67f58cb9784f9bb3b21f36",
+    "id": "ed1773dd74201aac19b4badc",
     "photo": "matepad.jpg",
     "price": 39000,
     "stock": 42,
@@ -40,7 +40,7 @@
     "category": "tablets"
   },
   {
-    "id": "b6d5021a7ea99eda062848b9",
+    "id": "f7438a7fb453aa70741413ff",
     "photo": "galaxy24.jpg",
     "price": 1000000,
     "stock": 72,
@@ -48,7 +48,7 @@
     "category": "celulares"
   },
   {
-    "id": "f7b8a13ba1c4620107327d3f",
+    "id": "811cf2f8214136d41c307223",
     "photo": "redminote8pro.png",
     "price": 50000,
     "stock": 12,
@@ -56,7 +56,7 @@
     "category": "celulares"
   },
   {
-    "id": "5cd026d292fbc7f1f82b4799",
+    "id": "f293a5d8cd2da7991c0cb456",
     "photo": "msigf.jpg",
     "price": 850000,
     "stock": 35,
@@ -64,7 +64,7 @@
     "category": "computadoras"
   },
   {
-    "id": "2ec92b4971f953e2b1103e8c",
+    "id": "5937e33d8866d744d24cf090",
     "photo": "ear1.jpg",
     "price": 52000,
     "stock": 81,
@@ -72,11 +72,1051 @@
     "category": "auriculares"
   },
   {
-    "id": "004a9daf0284fea481fbb72d",
+    "id": "bff14df736c98355d483b84d",
     "photo": "jblcharge6.jpg",
     "price": 15000,
     "stock": 64,
     "title": "JBL Charge  6",
+    "category": "audio"
+  },
+  {
+    "id": "a3c06a58c49ca1893173931e",
+    "photo": "nokia110.jpg",
+    "price": 1000000,
+    "stock": 2,
+    "title": "Nokia 1100",
+    "category": "celulares"
+  },
+  {
+    "id": "eb83ec0b60c20db11b13aedc",
+    "photo": "dellinspiron.jpg",
+    "price": 585000,
+    "stock": 28,
+    "title": "Dell  Inspiron 7590 ",
+    "category": "computadoras"
+  },
+  {
+    "id": "1cded97590c983c5896cc31b",
+    "photo": "zenbook.jpg",
+    "price": 491500,
+    "stock": 10,
+    "title": "Asus  Zenbook UX433fa",
+    "category": "computadoras"
+  },
+  {
+    "id": "a75d2ffb1f8b133095bdd4b9",
+    "photo": "miband4.jpg",
+    "price": 8000,
+    "stock": 33,
+    "title": "Xiaomi Mi  Band 4 Pro",
+    "category": "accesorios"
+  },
+  {
+    "id": "d5afff44f74d5fee00aa7b96",
+    "photo": "onepluspad.jpg",
+    "price": 82000,
+    "stock": 10,
+    "title": "OnePlus Pad",
+    "category": "tablets"
+  },
+  {
+    "id": "c065b3a79e2ab35c31f41c7a",
+    "photo": "nothing2.jpg",
+    "price": 285000,
+    "stock": 22,
+    "title": "Nothing 2",
+    "category": "celulares"
+  },
+  {
+    "id": "358cde8af247d5ff685497a0",
+    "photo": "g6plus.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Moto G 6 Plus",
+    "category": "celulares"
+  },
+  {
+    "id": "3edbcd5f9ba586eb829cab7b",
+    "photo": "vaio11.jpg",
+    "price": 630000,
+    "stock": 5,
+    "title": "Vaio  Fit 11",
+    "category": "computadoras"
+  },
+  {
+    "id": "a02990eb7175c0838448e8bd",
+    "photo": "redmibuds5.jpg",
+    "price": 48080,
+    "stock": 11,
+    "title": "Xiaomi Redmi Buds 5",
+    "category": "auriculares"
+  },
+  {
+    "id": "77fe5d60e8883306d8793d4c",
+    "photo": "soundlink.jpg",
+    "price": 189000,
+    "stock": 4,
+    "title": "Bose Soundlink ",
+    "category": "audio"
+  },
+  {
+    "id": "e5560aa3c5b20b15f42ec7d6",
+    "photo": "galaxy23.jpg",
+    "price": 800000,
+    "stock": 72,
+    "title": "Galaxy s23",
+    "category": "celulares"
+  },
+  {
+    "id": "4aaaa7afadee5f4659d39a1d",
+    "photo": "thinkpad.jpg",
+    "price": 56000,
+    "stock": 12,
+    "title": "Lenovo  ThinkPad T490",
+    "category": "computadoras"
+  },
+  {
+    "id": "cce62f096a558597128c1436",
+    "photo": "vaio.jpg",
+    "price": 49500,
+    "stock": 29,
+    "title": "Vaio  SZ422 Laptop",
+    "category": "computadoras"
+  },
+  {
+    "id": "30745f9d880627284f998e30",
+    "photo": "applewatch.jpg",
+    "price": 92800,
+    "stock": 3,
+    "title": "Apple Watch",
+    "category": "accesorios"
+  },
+  {
+    "id": "dec2c11853a302549ec599ee",
+    "photo": "matepad.jpg",
+    "price": 39000,
+    "stock": 42,
+    "title": "Huawei MatePad",
+    "category": "tablets"
+  },
+  {
+    "id": "86569c8a14e9e82c4d1d2d5e",
+    "photo": "galaxy24.jpg",
+    "price": 1000000,
+    "stock": 72,
+    "title": "Galaxy s24",
+    "category": "celulares"
+  },
+  {
+    "id": "cb49b31175bcc5e195446550",
+    "photo": "redminote8pro.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Xiaomi  Redmi Note 8 Pro",
+    "category": "celulares"
+  },
+  {
+    "id": "bb454935d5465e13b269f7e6",
+    "photo": "msigf.jpg",
+    "price": 850000,
+    "stock": 35,
+    "title": "MSI GF 63",
+    "category": "computadoras"
+  },
+  {
+    "id": "5f3116950186ca4d5cff2b3a",
+    "photo": "ear1.jpg",
+    "price": 52000,
+    "stock": 81,
+    "title": "Nothing Ear",
+    "category": "auriculares"
+  },
+  {
+    "id": "059fbcd4c69e925cbadbfc6a",
+    "photo": "jblcharge6.jpg",
+    "price": 15000,
+    "stock": 64,
+    "title": "JBL Charge  6",
+    "category": "audio"
+  },
+  {
+    "id": "ceb4f8a5fa48ee65391af19c",
+    "photo": "nokia110.jpg",
+    "price": 1000000,
+    "stock": 2,
+    "title": "Nokia 1100",
+    "category": "celulares"
+  },
+  {
+    "id": "17e06ebd592713700d40b75b",
+    "photo": "dellinspiron.jpg",
+    "price": 585000,
+    "stock": 28,
+    "title": "Dell  Inspiron 7590 ",
+    "category": "computadoras"
+  },
+  {
+    "id": "446743c9993c0129202b09df",
+    "photo": "zenbook.jpg",
+    "price": 491500,
+    "stock": 10,
+    "title": "Asus  Zenbook UX433fa",
+    "category": "computadoras"
+  },
+  {
+    "id": "9a1848c2151af1f29af9acaf",
+    "photo": "miband4.jpg",
+    "price": 8000,
+    "stock": 33,
+    "title": "Xiaomi Mi  Band 4 Pro",
+    "category": "accesorios"
+  },
+  {
+    "id": "0b48217ec0e466d83d0bbdf0",
+    "photo": "onepluspad.jpg",
+    "price": 82000,
+    "stock": 10,
+    "title": "OnePlus Pad",
+    "category": "tablets"
+  },
+  {
+    "id": "4baf36cb98e1c8c106598045",
+    "photo": "nothing2.jpg",
+    "price": 285000,
+    "stock": 22,
+    "title": "Nothing 2",
+    "category": "celulares"
+  },
+  {
+    "id": "abad1e672950bd7cba5d7b90",
+    "photo": "g6plus.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Moto G 6 Plus",
+    "category": "celulares"
+  },
+  {
+    "id": "8e934f1972b745945a30f257",
+    "photo": "vaio11.jpg",
+    "price": 630000,
+    "stock": 5,
+    "title": "Vaio  Fit 11",
+    "category": "computadoras"
+  },
+  {
+    "id": "a81840387e1b797f61bb74c7",
+    "photo": "redmibuds5.jpg",
+    "price": 48080,
+    "stock": 11,
+    "title": "Xiaomi Redmi Buds 5",
+    "category": "auriculares"
+  },
+  {
+    "id": "75c585c22bbe791d83cbf6f3",
+    "photo": "soundlink.jpg",
+    "price": 189000,
+    "stock": 4,
+    "title": "Bose Soundlink ",
+    "category": "audio"
+  },
+  {
+    "id": "be3c5b0dab7d114fce4cc3a2",
+    "photo": "galaxy23.jpg",
+    "price": 800000,
+    "stock": 72,
+    "title": "Galaxy s23",
+    "category": "celulares"
+  },
+  {
+    "id": "71406c750209251d8f40c457",
+    "photo": "thinkpad.jpg",
+    "price": 56000,
+    "stock": 12,
+    "title": "Lenovo  ThinkPad T490",
+    "category": "computadoras"
+  },
+  {
+    "id": "246dc7ffc2ac7243b56d660a",
+    "photo": "vaio.jpg",
+    "price": 49500,
+    "stock": 29,
+    "title": "Vaio  SZ422 Laptop",
+    "category": "computadoras"
+  },
+  {
+    "id": "58160b5b6f89a58560d241da",
+    "photo": "applewatch.jpg",
+    "price": 92800,
+    "stock": 3,
+    "title": "Apple Watch",
+    "category": "accesorios"
+  },
+  {
+    "id": "4756d45a8ac5dd3cbee9803e",
+    "photo": "matepad.jpg",
+    "price": 39000,
+    "stock": 42,
+    "title": "Huawei MatePad",
+    "category": "tablets"
+  },
+  {
+    "id": "b04855fcb21d2d444c2a4fe8",
+    "photo": "galaxy24.jpg",
+    "price": 1000000,
+    "stock": 72,
+    "title": "Galaxy s24",
+    "category": "celulares"
+  },
+  {
+    "id": "685dd45226620282473abbcd",
+    "photo": "redminote8pro.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Xiaomi  Redmi Note 8 Pro",
+    "category": "celulares"
+  },
+  {
+    "id": "611f472c1c1239e13483279f",
+    "photo": "msigf.jpg",
+    "price": 850000,
+    "stock": 35,
+    "title": "MSI GF 63",
+    "category": "computadoras"
+  },
+  {
+    "id": "514f0e8ae6944db6a2f44ba3",
+    "photo": "ear1.jpg",
+    "price": 52000,
+    "stock": 81,
+    "title": "Nothing Ear",
+    "category": "auriculares"
+  },
+  {
+    "id": "a535ed0bc9254b6da943c656",
+    "photo": "jblcharge6.jpg",
+    "price": 15000,
+    "stock": 64,
+    "title": "JBL Charge  6",
+    "category": "audio"
+  },
+  {
+    "id": "0a58ca3c87a0603a347efc87",
+    "photo": "nokia110.jpg",
+    "price": 1000000,
+    "stock": 2,
+    "title": "Nokia 1100",
+    "category": "celulares"
+  },
+  {
+    "id": "11cda9b70323461103659853",
+    "photo": "dellinspiron.jpg",
+    "price": 585000,
+    "stock": 28,
+    "title": "Dell  Inspiron 7590 ",
+    "category": "computadoras"
+  },
+  {
+    "id": "8becccd2a7f4f532dad9ac8e",
+    "photo": "zenbook.jpg",
+    "price": 491500,
+    "stock": 10,
+    "title": "Asus  Zenbook UX433fa",
+    "category": "computadoras"
+  },
+  {
+    "id": "7bcc0c0f5b29595dacd95229",
+    "photo": "miband4.jpg",
+    "price": 8000,
+    "stock": 33,
+    "title": "Xiaomi Mi  Band 4 Pro",
+    "category": "accesorios"
+  },
+  {
+    "id": "94d27efe8e135a55e9b327d7",
+    "photo": "onepluspad.jpg",
+    "price": 82000,
+    "stock": 10,
+    "title": "OnePlus Pad",
+    "category": "tablets"
+  },
+  {
+    "id": "9ac8ade108ce3421e0ad3b9e",
+    "photo": "nothing2.jpg",
+    "price": 285000,
+    "stock": 22,
+    "title": "Nothing 2",
+    "category": "celulares"
+  },
+  {
+    "id": "1f7eb5d60950c550507eb416",
+    "photo": "g6plus.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Moto G 6 Plus",
+    "category": "celulares"
+  },
+  {
+    "id": "7f920cf0f9c0cb3db0908c2f",
+    "photo": "vaio11.jpg",
+    "price": 630000,
+    "stock": 5,
+    "title": "Vaio  Fit 11",
+    "category": "computadoras"
+  },
+  {
+    "id": "1296a40ad2033c70e2dcdbb8",
+    "photo": "redmibuds5.jpg",
+    "price": 48080,
+    "stock": 11,
+    "title": "Xiaomi Redmi Buds 5",
+    "category": "auriculares"
+  },
+  {
+    "id": "fd520f1aef29cb1c6f803bf5",
+    "photo": "soundlink.jpg",
+    "price": 189000,
+    "stock": 4,
+    "title": "Bose Soundlink ",
+    "category": "audio"
+  },
+  {
+    "id": "2d576bac0987f9010baed44f",
+    "photo": "galaxy23.jpg",
+    "price": 800000,
+    "stock": 72,
+    "title": "Galaxy s23",
+    "category": "celulares"
+  },
+  {
+    "id": "146cb1c7a6e1b8eeeeaa10ad",
+    "photo": "thinkpad.jpg",
+    "price": 56000,
+    "stock": 12,
+    "title": "Lenovo  ThinkPad T490",
+    "category": "computadoras"
+  },
+  {
+    "id": "bbf27e83c77da6e6033a9db5",
+    "photo": "vaio.jpg",
+    "price": 49500,
+    "stock": 29,
+    "title": "Vaio  SZ422 Laptop",
+    "category": "computadoras"
+  },
+  {
+    "id": "cb384309d73c69959278d037",
+    "photo": "applewatch.jpg",
+    "price": 92800,
+    "stock": 3,
+    "title": "Apple Watch",
+    "category": "accesorios"
+  },
+  {
+    "id": "ffc280dcea766c58d7d7bc3b",
+    "photo": "matepad.jpg",
+    "price": 39000,
+    "stock": 42,
+    "title": "Huawei MatePad",
+    "category": "tablets"
+  },
+  {
+    "id": "e5233f33b6c78f881577d054",
+    "photo": "galaxy24.jpg",
+    "price": 1000000,
+    "stock": 72,
+    "title": "Galaxy s24",
+    "category": "celulares"
+  },
+  {
+    "id": "44a92f700349ac4925ae3d39",
+    "photo": "redminote8pro.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Xiaomi  Redmi Note 8 Pro",
+    "category": "celulares"
+  },
+  {
+    "id": "dad278fe33c6737de5c13c27",
+    "photo": "msigf.jpg",
+    "price": 850000,
+    "stock": 35,
+    "title": "MSI GF 63",
+    "category": "computadoras"
+  },
+  {
+    "id": "c3e2a07eba02bf5de5398992",
+    "photo": "ear1.jpg",
+    "price": 52000,
+    "stock": 81,
+    "title": "Nothing Ear",
+    "category": "auriculares"
+  },
+  {
+    "id": "586d7d92af988a011f62662d",
+    "photo": "jblcharge6.jpg",
+    "price": 15000,
+    "stock": 64,
+    "title": "JBL Charge  6",
+    "category": "audio"
+  },
+  {
+    "id": "f060bce58a035c16b28f88ea",
+    "photo": "nokia110.jpg",
+    "price": 1000000,
+    "stock": 2,
+    "title": "Nokia 1100",
+    "category": "celulares"
+  },
+  {
+    "id": "0e56bf3df6a11a630bdfba8f",
+    "photo": "dellinspiron.jpg",
+    "price": 585000,
+    "stock": 28,
+    "title": "Dell  Inspiron 7590 ",
+    "category": "computadoras"
+  },
+  {
+    "id": "f78ff3423821f33532f77091",
+    "photo": "zenbook.jpg",
+    "price": 491500,
+    "stock": 10,
+    "title": "Asus  Zenbook UX433fa",
+    "category": "computadoras"
+  },
+  {
+    "id": "18ae19b26bc0bcc41676a39b",
+    "photo": "miband4.jpg",
+    "price": 8000,
+    "stock": 33,
+    "title": "Xiaomi Mi  Band 4 Pro",
+    "category": "accesorios"
+  },
+  {
+    "id": "af495dc2299bf1c06e0c7d58",
+    "photo": "onepluspad.jpg",
+    "price": 82000,
+    "stock": 10,
+    "title": "OnePlus Pad",
+    "category": "tablets"
+  },
+  {
+    "id": "c94af2942584ec5a8ad93e21",
+    "photo": "nothing2.jpg",
+    "price": 285000,
+    "stock": 22,
+    "title": "Nothing 2",
+    "category": "celulares"
+  },
+  {
+    "id": "eaddfa0fefe7bd666b648fb6",
+    "photo": "g6plus.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Moto G 6 Plus",
+    "category": "celulares"
+  },
+  {
+    "id": "4fe2106d72521f6f66c089d4",
+    "photo": "vaio11.jpg",
+    "price": 630000,
+    "stock": 5,
+    "title": "Vaio  Fit 11",
+    "category": "computadoras"
+  },
+  {
+    "id": "ab8e331527bf9376fbc95206",
+    "photo": "redmibuds5.jpg",
+    "price": 48080,
+    "stock": 11,
+    "title": "Xiaomi Redmi Buds 5",
+    "category": "auriculares"
+  },
+  {
+    "id": "e12a399af59b201d76127aa9",
+    "photo": "soundlink.jpg",
+    "price": 189000,
+    "stock": 4,
+    "title": "Bose Soundlink ",
+    "category": "audio"
+  },
+  {
+    "id": "8ef13355ca93da290819426c",
+    "photo": "galaxy23.jpg",
+    "price": 800000,
+    "stock": 72,
+    "title": "Galaxy s23",
+    "category": "celulares"
+  },
+  {
+    "id": "bef19a54f62927a396286a75",
+    "photo": "thinkpad.jpg",
+    "price": 56000,
+    "stock": 12,
+    "title": "Lenovo  ThinkPad T490",
+    "category": "computadoras"
+  },
+  {
+    "id": "d58c6e5ab5bf086efc68a235",
+    "photo": "vaio.jpg",
+    "price": 49500,
+    "stock": 29,
+    "title": "Vaio  SZ422 Laptop",
+    "category": "computadoras"
+  },
+  {
+    "id": "81b516313f5d1d98008f0e58",
+    "photo": "applewatch.jpg",
+    "price": 92800,
+    "stock": 3,
+    "title": "Apple Watch",
+    "category": "accesorios"
+  },
+  {
+    "id": "6472c1cc7aeb85e6c0a6fa2f",
+    "photo": "matepad.jpg",
+    "price": 39000,
+    "stock": 42,
+    "title": "Huawei MatePad",
+    "category": "tablets"
+  },
+  {
+    "id": "ff38026396cd833a44a0f35c",
+    "photo": "galaxy24.jpg",
+    "price": 1000000,
+    "stock": 72,
+    "title": "Galaxy s24",
+    "category": "celulares"
+  },
+  {
+    "id": "df22449e803dbb28bd746817",
+    "photo": "redminote8pro.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Xiaomi  Redmi Note 8 Pro",
+    "category": "celulares"
+  },
+  {
+    "id": "3173428b760afb0c7f0aa026",
+    "photo": "msigf.jpg",
+    "price": 850000,
+    "stock": 35,
+    "title": "MSI GF 63",
+    "category": "computadoras"
+  },
+  {
+    "id": "60e907e62b37116e2dd44d12",
+    "photo": "ear1.jpg",
+    "price": 52000,
+    "stock": 81,
+    "title": "Nothing Ear",
+    "category": "auriculares"
+  },
+  {
+    "id": "31d453123fd3da309e29a094",
+    "photo": "jblcharge6.jpg",
+    "price": 15000,
+    "stock": 64,
+    "title": "JBL Charge  6",
+    "category": "audio"
+  },
+  {
+    "id": "c29bf8442361d6ac7041e93a",
+    "photo": "nokia110.jpg",
+    "price": 1000000,
+    "stock": 2,
+    "title": "Nokia 1100",
+    "category": "celulares"
+  },
+  {
+    "id": "7fca8e51b60c8135f2dc4d15",
+    "photo": "dellinspiron.jpg",
+    "price": 585000,
+    "stock": 28,
+    "title": "Dell  Inspiron 7590 ",
+    "category": "computadoras"
+  },
+  {
+    "id": "05131a1cf4d3e4532909a148",
+    "photo": "zenbook.jpg",
+    "price": 491500,
+    "stock": 10,
+    "title": "Asus  Zenbook UX433fa",
+    "category": "computadoras"
+  },
+  {
+    "id": "7fbad39d98cca2227fea6919",
+    "photo": "miband4.jpg",
+    "price": 8000,
+    "stock": 33,
+    "title": "Xiaomi Mi  Band 4 Pro",
+    "category": "accesorios"
+  },
+  {
+    "id": "db84a1841bf2a1007f67503d",
+    "photo": "onepluspad.jpg",
+    "price": 82000,
+    "stock": 10,
+    "title": "OnePlus Pad",
+    "category": "tablets"
+  },
+  {
+    "id": "4f71a0cc608b2ccd0e88ee73",
+    "photo": "nothing2.jpg",
+    "price": 285000,
+    "stock": 22,
+    "title": "Nothing 2",
+    "category": "celulares"
+  },
+  {
+    "id": "45421e76e4c2dc787d476a5b",
+    "photo": "g6plus.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Moto G 6 Plus",
+    "category": "celulares"
+  },
+  {
+    "id": "230305fae481ca219b781670",
+    "photo": "vaio11.jpg",
+    "price": 630000,
+    "stock": 5,
+    "title": "Vaio  Fit 11",
+    "category": "computadoras"
+  },
+  {
+    "id": "89250671dc17ff46f04fdcd2",
+    "photo": "redmibuds5.jpg",
+    "price": 48080,
+    "stock": 11,
+    "title": "Xiaomi Redmi Buds 5",
+    "category": "auriculares"
+  },
+  {
+    "id": "7db77167f704825206189367",
+    "photo": "soundlink.jpg",
+    "price": 189000,
+    "stock": 4,
+    "title": "Bose Soundlink ",
+    "category": "audio"
+  },
+  {
+    "id": "12ac1b04199b91cbf9574e59",
+    "photo": "galaxy23.jpg",
+    "price": 800000,
+    "stock": 72,
+    "title": "Galaxy s23",
+    "category": "celulares"
+  },
+  {
+    "id": "81c39f61fcc474e680f13c6a",
+    "photo": "thinkpad.jpg",
+    "price": 56000,
+    "stock": 12,
+    "title": "Lenovo  ThinkPad T490",
+    "category": "computadoras"
+  },
+  {
+    "id": "bc1acb1bbf06768b4beb636f",
+    "photo": "vaio.jpg",
+    "price": 49500,
+    "stock": 29,
+    "title": "Vaio  SZ422 Laptop",
+    "category": "computadoras"
+  },
+  {
+    "id": "ddc0dd01079289cedc625e67",
+    "photo": "applewatch.jpg",
+    "price": 92800,
+    "stock": 3,
+    "title": "Apple Watch",
+    "category": "accesorios"
+  },
+  {
+    "id": "ffa4e68936785434079d5c03",
+    "photo": "matepad.jpg",
+    "price": 39000,
+    "stock": 42,
+    "title": "Huawei MatePad",
+    "category": "tablets"
+  },
+  {
+    "id": "aac59f62e2812b44f69625a4",
+    "photo": "galaxy24.jpg",
+    "price": 1000000,
+    "stock": 72,
+    "title": "Galaxy s24",
+    "category": "celulares"
+  },
+  {
+    "id": "cdfaaf75d4cb77558e1e7809",
+    "photo": "redminote8pro.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Xiaomi  Redmi Note 8 Pro",
+    "category": "celulares"
+  },
+  {
+    "id": "958b652f3135df769761ff1f",
+    "photo": "msigf.jpg",
+    "price": 850000,
+    "stock": 35,
+    "title": "MSI GF 63",
+    "category": "computadoras"
+  },
+  {
+    "id": "4d3a7aada5d56c4c54ae0bf7",
+    "photo": "ear1.jpg",
+    "price": 52000,
+    "stock": 81,
+    "title": "Nothing Ear",
+    "category": "auriculares"
+  },
+  {
+    "id": "e4bde05ebcdb6a71d4705a7a",
+    "photo": "jblcharge6.jpg",
+    "price": 15000,
+    "stock": 64,
+    "title": "JBL Charge  6",
+    "category": "audio"
+  },
+  {
+    "id": "0771d575917b094c964c4946",
+    "photo": "nokia110.jpg",
+    "price": 1000000,
+    "stock": 2,
+    "title": "Nokia 1100",
+    "category": "celulares"
+  },
+  {
+    "id": "6c692adc2092843c06179e90",
+    "photo": "dellinspiron.jpg",
+    "price": 585000,
+    "stock": 28,
+    "title": "Dell  Inspiron 7590 ",
+    "category": "computadoras"
+  },
+  {
+    "id": "8384034aee8f854d08bbed45",
+    "photo": "zenbook.jpg",
+    "price": 491500,
+    "stock": 10,
+    "title": "Asus  Zenbook UX433fa",
+    "category": "computadoras"
+  },
+  {
+    "id": "d86d9775cfb9a815f0065313",
+    "photo": "miband4.jpg",
+    "price": 8000,
+    "stock": 33,
+    "title": "Xiaomi Mi  Band 4 Pro",
+    "category": "accesorios"
+  },
+  {
+    "id": "7620da0fc0bc1340cd76a486",
+    "photo": "onepluspad.jpg",
+    "price": 82000,
+    "stock": 10,
+    "title": "OnePlus Pad",
+    "category": "tablets"
+  },
+  {
+    "id": "3b90aca52c8f28a36c878837",
+    "photo": "nothing2.jpg",
+    "price": 285000,
+    "stock": 22,
+    "title": "Nothing 2",
+    "category": "celulares"
+  },
+  {
+    "id": "4390b926c260f14925d3129d",
+    "photo": "g6plus.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Moto G 6 Plus",
+    "category": "celulares"
+  },
+  {
+    "id": "a9fa1ecb1679daced4839a23",
+    "photo": "vaio11.jpg",
+    "price": 630000,
+    "stock": 5,
+    "title": "Vaio  Fit 11",
+    "category": "computadoras"
+  },
+  {
+    "id": "80365e08c79932a7f338ab40",
+    "photo": "redmibuds5.jpg",
+    "price": 48080,
+    "stock": 11,
+    "title": "Xiaomi Redmi Buds 5",
+    "category": "auriculares"
+  },
+  {
+    "id": "6c99167005866d4c33e60a12",
+    "photo": "soundlink.jpg",
+    "price": 189000,
+    "stock": 4,
+    "title": "Bose Soundlink ",
+    "category": "audio"
+  },
+  {
+    "id": "8a1089ba1716d7211a8852c3",
+    "photo": "galaxy23.jpg",
+    "price": 800000,
+    "stock": 72,
+    "title": "Galaxy s23",
+    "category": "celulares"
+  },
+  {
+    "id": "32354dedd8d06c8861b784e4",
+    "photo": "thinkpad.jpg",
+    "price": 56000,
+    "stock": 12,
+    "title": "Lenovo  ThinkPad T490",
+    "category": "computadoras"
+  },
+  {
+    "id": "0cc25af102d9839891fa1c41",
+    "photo": "vaio.jpg",
+    "price": 49500,
+    "stock": 29,
+    "title": "Vaio  SZ422 Laptop",
+    "category": "computadoras"
+  },
+  {
+    "id": "a5ee795326ce42c1fe5e163d",
+    "photo": "applewatch.jpg",
+    "price": 92800,
+    "stock": 3,
+    "title": "Apple Watch",
+    "category": "accesorios"
+  },
+  {
+    "id": "67d0cf8e9f74ed62fdda9fb2",
+    "photo": "matepad.jpg",
+    "price": 39000,
+    "stock": 42,
+    "title": "Huawei MatePad",
+    "category": "tablets"
+  },
+  {
+    "id": "df753087e88a01ed3bab6b91",
+    "photo": "galaxy24.jpg",
+    "price": 1000000,
+    "stock": 72,
+    "title": "Galaxy s24",
+    "category": "celulares"
+  },
+  {
+    "id": "3548420e9a8c23af07687f47",
+    "photo": "redminote8pro.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Xiaomi  Redmi Note 8 Pro",
+    "category": "celulares"
+  },
+  {
+    "id": "1ac3d13e5fab97f1f47b2429",
+    "photo": "msigf.jpg",
+    "price": 850000,
+    "stock": 35,
+    "title": "MSI GF 63",
+    "category": "computadoras"
+  },
+  {
+    "id": "58f5156ef22056ae177672cb",
+    "photo": "ear1.jpg",
+    "price": 52000,
+    "stock": 81,
+    "title": "Nothing Ear",
+    "category": "auriculares"
+  },
+  {
+    "id": "b7c1441f319a0d53638dffe0",
+    "photo": "jblcharge6.jpg",
+    "price": 15000,
+    "stock": 64,
+    "title": "JBL Charge  6",
+    "category": "audio"
+  },
+  {
+    "id": "749df6d900670c3c00936288",
+    "photo": "nokia110.jpg",
+    "price": 1000000,
+    "stock": 2,
+    "title": "Nokia 1100",
+    "category": "celulares"
+  },
+  {
+    "id": "f6eb2366742eacd5cf88cd3c",
+    "photo": "dellinspiron.jpg",
+    "price": 585000,
+    "stock": 28,
+    "title": "Dell  Inspiron 7590 ",
+    "category": "computadoras"
+  },
+  {
+    "id": "b2d4a2bbc463a7ccb0b7d592",
+    "photo": "zenbook.jpg",
+    "price": 491500,
+    "stock": 10,
+    "title": "Asus  Zenbook UX433fa",
+    "category": "computadoras"
+  },
+  {
+    "id": "ef1d2c517245ae3cb613efc3",
+    "photo": "miband4.jpg",
+    "price": 8000,
+    "stock": 33,
+    "title": "Xiaomi Mi  Band 4 Pro",
+    "category": "accesorios"
+  },
+  {
+    "id": "ce82061a13549a0cf857bcbe",
+    "photo": "onepluspad.jpg",
+    "price": 82000,
+    "stock": 10,
+    "title": "OnePlus Pad",
+    "category": "tablets"
+  },
+  {
+    "id": "7cdf5577882c003c7b678c1a",
+    "photo": "nothing2.jpg",
+    "price": 285000,
+    "stock": 22,
+    "title": "Nothing 2",
+    "category": "celulares"
+  },
+  {
+    "id": "3791baaa887c708d1c81d19c",
+    "photo": "g6plus.png",
+    "price": 50000,
+    "stock": 12,
+    "title": "Moto G 6 Plus",
+    "category": "celulares"
+  },
+  {
+    "id": "0460e69751cb6410522e97a5",
+    "photo": "vaio11.jpg",
+    "price": 630000,
+    "stock": 5,
+    "title": "Vaio  Fit 11",
+    "category": "computadoras"
+  },
+  {
+    "id": "55b92b9fce713bc9630060b9",
+    "photo": "redmibuds5.jpg",
+    "price": 48080,
+    "stock": 11,
+    "title": "Xiaomi Redmi Buds 5",
+    "category": "auriculares"
+  },
+  {
+    "id": "60240153cd12aab3fabce926",
+    "photo": "soundlink.jpg",
+    "price": 189000,
+    "stock": 4,
+    "title": "Bose Soundlink ",
     "category": "audio"
   }
 ]

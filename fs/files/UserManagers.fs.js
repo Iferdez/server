@@ -1,7 +1,7 @@
-const fs = require("fs");
-const crypto = require("crypto");
+import fs from "fs";
+import crypto  from "crypto";
 
-class UsersManager {
+ class UsersManager {
   constructor() {
     this.path = "fs/files/users.json";
     this.init();
@@ -11,15 +11,15 @@ class UsersManager {
     if (!exists) {
       const stringData = JSON.stringify([], null, 2);
       fs.writeFileSync(this.path, stringData);
-      console.log("Creado existosamente");
+      console.log("Created");
     } else {
-      console.log("Ya existe el archivo");
+      console.log("File already exist");
     }
   }
   async create(data) {
     try {
       if (!data.email || !data.password) {
-        throw new Error("Faltan Datos");
+        throw new Error("Complete all the  fields");
       } else {
         const user = {
           id: crypto.randomBytes(12).toString("hex"),
@@ -38,7 +38,7 @@ class UsersManager {
         return user;
       }
     } catch (error) {
-      console.log(`Error al crear Usuario`);
+      console.log(`Error Creating user`);
     }
   }
   async read() {
@@ -58,7 +58,7 @@ class UsersManager {
     users = JSON.parse(users);
     const filtered = users.filter((each) => each.id !== id);
     await fs.promises.writeFile(filtered);
-    return "Usuario " + id + " Eliminado";
+    return "user " + id + " deleted";
   }
 }
 
@@ -90,3 +90,6 @@ async function test () {
 }
 
 test()
+
+const usersManager = new UsersManager
+export default  usersManager;

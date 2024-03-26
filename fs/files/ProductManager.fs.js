@@ -1,5 +1,5 @@
-const fs = require("fs");
-const crypto = require("crypto");
+import fs from "fs";
+import crypto  from "crypto";
 
 class ProductManager {
   constructor() {
@@ -11,9 +11,9 @@ class ProductManager {
     if (!exists) {
       const stringData = JSON.stringify([], null, 2);
       fs.writeFileSync(this.path, stringData);
-      console.log("Creado existosamente");
+      console.log("Product created");
     } else {
-      console.log("Ya existe el archivo");
+      console.log("Already exist");
     }
   }
   async create(data) {
@@ -39,19 +39,27 @@ class ProductManager {
         return product;
       }
     } catch (error) {
-      console.log(`Error al crear Producto`);
+      console.log(error);
     }
   }
-  async read() {
+  async read(category ='') {
     let products = await fs.promises.readFile(this.path, "utf-8");
     products = JSON.parse(products);
-    return products;
+    if (category==='') {return  products;}
+    else 
+ {   products = products.filter(each=>each.category===category)
+    return products;}
   }
 
   async readOne(id) {
-    let products = await fs.promises.readFile(this.path, "utf-8");
+    try {
+      let products = await fs.promises.readFile(this.path, "utf-8");
     products = JSON.parse(products);
-    return products.find((each) => each.id === id);
+    return products.find((each) => each.id=== id);
+    } catch (error) {
+      return error
+    }
+    
   }
 
   async destroy(id) {
@@ -59,7 +67,7 @@ class ProductManager {
     products = JSON.parse(products);
     const filtered = products.filter((each) => each.id !== id);
     await fs.promises.writeFile(filtered);
-    return "Producto " + id + " Eliminado";
+    return "Product " + id + " deleted";
   }
 }
 async function test () {
@@ -137,10 +145,97 @@ async function test () {
 //   price: 15000,
 //   stock: 64,
 // });
+// await products.create({
+//   title: "Nokia 1100",
+//   photo: "nokia110.jpg",
+//   category: "celulares",
+//   price: 1000000,
+//   stock: 2,
+// });
+// await products.create({
+//   title: "Dell  Inspiron 7590 ",
+//   photo: "dellinspiron.jpg",
+//   category: "computadoras",
+//   price: 585000,
+//   stock: 28,
+// });
+
+// await products.create({
+//   title: "Asus  Zenbook UX433fa",
+//   photo: "zenbook.jpg",
+//   category: "computadoras",
+//   price: 491500,
+//   stock: 10,
+// });
+// await products.create({
+//   title: "Xiaomi Mi  Band 4 Pro",
+//   photo: "miband4.jpg",
+//   category: "accesorios",
+//   price: 8000,
+//   stock: 33,
+// });
+// await products.create({
+//   title: "OnePlus Pad",
+//   photo: "onepluspad.jpg",
+//   category: "tablets",
+//   price: 82000,
+//   stock: 10,
+// });
+
+// await products.create({
+//   title: "Nothing 2",
+//   photo: "nothing2.jpg",
+//   category: "celulares",
+//   price: 285000,
+//   stock: 22,
+// });
+// await products.create({
+//   title: "Moto G 6 Plus",
+//   photo: "g6plus.png",
+//   category: "celulares",
+//   price: 50000,
+//   stock: 12,
+// });
+
+// await products.create({
+//   title: "Vaio  Fit 11",
+//   photo: "vaio11.jpg",
+//   category: "computadoras",
+//   price: 630000,
+//   stock: 5,
+// });
+// await products.create({
+//   title: "Xiaomi Redmi Buds 5",
+//   photo: "redmibuds5.jpg",
+//   category: "auriculares",
+//   price: 48080,
+//   stock: 11,
+// });
+// await products.create({
+//   title: "Bose Soundlink ",
+//   photo: "soundlink.jpg",
+//   category: "audio",
+//   price: 189000,
+//   stock: 4,
+// });
 
 
-   console.log(await products.read())
-   console.log (await products.readOne("064a411621765f1955f0d9d3"))
+  //  console.log(await products.read())
+  //  console.log (await products.readOne("064a411621765f1955f0d9d3"))
  }
  
- test()
+ let isTestExecuted = false;
+
+ async function testOnce() {
+   if (!isTestExecuted) {
+     await test();
+     isTestExecuted = true;
+   }
+ }
+ 
+
+ 
+ const productManager = new ProductManager();
+ export default productManager;
+
+ testOnce();
