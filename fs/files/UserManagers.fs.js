@@ -41,9 +41,11 @@ import crypto  from "crypto";
       console.log(`Error Creating user`);
     }
   }
-  async read() {
+  async read(role= '') {
     let users = await fs.promises.readFile(this.path, "utf-8");
     users = JSON.parse(users);
+    if (role==='') {return users}
+    else {users = users.filter(each=>each.role===role)}
     return users;
   }
 
